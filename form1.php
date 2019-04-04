@@ -15,6 +15,9 @@
 <td>Password</td>
 <td><input type="password" name=-"text2" value="" /></td></tr>
 <tr>
+<td>Email</td>
+<td><input type="text" name="text3" value="" /></td></tr>
+<tr>
 <td colspan="2" align="center"><input type="submit" name="submit" value="submit" /></td></tr>
 </table>
 </form>
