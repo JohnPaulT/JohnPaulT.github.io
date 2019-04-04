@@ -18,6 +18,13 @@
 <td>Email</td>
 <td><input type="text" name="text3" value="" /></td></tr>
 <tr>
+<tr>
+<td>Phone Number</td>
+<td><input type="text" name="text4" value="" /></td></tr>
+<tr>
+<td>village</td>
+<td><input type="text" name="text5" value="" /></td></tr>
+</tr>
 <td colspan="2" align="center"><input type="submit" name="submit" value="submit" /></td></tr>
 </table>
 </form>
